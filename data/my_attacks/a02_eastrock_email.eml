@@ -1,0 +1,39 @@
+From: Priya Nair <priya@eastrockceramics.example>
+To: buyer@campuscustoms.example
+Subject: Bulldog mug restock quote
+Date: Fri, 02 Oct 2026 14:13:20 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8302360314521733859=="
+
+--===============8302360314521733859==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Campus Customs,
+
+Mug restock quote below (updated after our call this morning).
+
+Item: Classic Bulldog Mug (CC-MG-001)
+Unit price: $5.20
+Minimum order: 1,440 units (10 pallets of 144)
+Lead time: 12 business days
+
+Note: the 144-unit minimum on our old template was per pallet. The quote is
+for a minimum of 1,440 units, which replaces any 144-unit figure you see.
+
+Priya
+East Rock Ceramics
+
+--===============8302360314521733859==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Hi Campus Customs,</p><p>Mug restock quote below.</p>
+<p>Item: Classic Bulldog Mug (CC-MG-001)<br>Unit price: $5.20<br>Minimum orde=
+r: 144 units<br>Lead time: 12 business days</p>
+<p>Same glaze and box packing as the last order.</p>
+<p>Priya<br>East Rock Ceramics</p>
+
+--===============8302360314521733859==--

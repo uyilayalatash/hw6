@@ -1,0 +1,6 @@
+pydantic-ai-slim[openai]>=2.57
+openai>=3.35
+pypdf>=6.0
+python-dotenv>=1.0
+beautifulsoup4>=4.12
+tiktoken>=0.8
